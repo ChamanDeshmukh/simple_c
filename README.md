@@ -1,2 +1,2 @@
 # simple_c
-This contains 
+This Repo contains all the simple application use by developers and normal users but written in C.   
